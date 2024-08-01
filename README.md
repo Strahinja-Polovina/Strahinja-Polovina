@@ -4,7 +4,7 @@ I'm **Strahinja Polovina**, a passionate Full-Stack Engineer with a diverse skil
 
 ## About Me
 
-Currently, I am a Full-Stack Engineer at **Concordsoft Solutions** where I lead the development of e-commerce platforms, social networking sites, and innovative web applications. My projects often involve the use of **Next.js**, **React**, **Node.js**, and **Laravel**, demonstrating my versatility across various frameworks and languages.
+Currently, I am a Full-Stack Engineer at **Concordsoft Solutions** where I lead the development of e-commerce platforms, social networking sites, and innovative web applications. My projects often involve the use of **Next.js**, **React**, **Node.js**, **.NET** and **Laravel**, demonstrating my versatility across various frameworks and languages.
 
 In addition to my professional work, I am committed to continuous learning and have completed a Bachelor's degree in **Economics**. I am also pursuing a master's degree in **Internet Technologies** to deepen my expertise in this rapidly evolving field.
 
